@@ -1,0 +1,11 @@
+.bg-navbar {
+  background-color: rgb(239, 239, 239);
+}
+
+#navbar.show, #navbar.collapsing {
+  padding-top: 0.5rem;
+}
+
+#accountDropdown::after {
+  display: none;
+}

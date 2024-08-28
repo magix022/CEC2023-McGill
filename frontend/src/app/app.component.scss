@@ -1,0 +1,24 @@
+:host {
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+}
+
+.flex-fill {
+  flex: 1 1 auto;
+}
+
+.flex-shrink {
+  flex-shrink: 0;
+}

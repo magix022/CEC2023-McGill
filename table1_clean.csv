@@ -1,0 +1,35 @@
+Resource,Sector,Quantity,Unit,Total Value ($CAD),Key,UnitPrice
+Extraction,Forestry,2446.0,metric_ton,2001000000,Extraction_Forestry,818070.3188879804
+Services,Forestry,2080000.0,hr,3743000000,Services_Forestry,1799.5192307692307
+Primary manufacturing,Forestry,113861538461.53844,kWh,14802000000,Primary_manufacturing_Forestry,0.13000000000000003
+Primary sawmill and wood products,Forestry,16793906285.005257,ft,9745000000,Primary_sawmill_and_wood_products_Forestry,0.58027
+Primary pulp and paper products,Forestry,4206857.074508531,metric_ton,4924000000,Primary_pulp_and_paper_products_Forestry,1170.47
+Primary forestry bioproducts,Forestry,3325000.0,metric_ton,133000000,Primary_forestry_bioproducts_Forestry,40.0
+Bioenergy and biofuel (from forestry biomass),Forestry,33641975.30864197,gallon,109000000,Bioenergy_and_biofuel_(from_forestry_biomass)_Forestry,3.2400000000000007
+Other bioproducts (from forestry biomass),Forestry,800.0,kg,24000000,Other_bioproducts_(from_forestry_biomass)_Forestry,30000.0
+Secondary wood products,Forestry,6031.818181818182,lb,2654000000,Secondary_wood_products_Forestry,440000.0
+Secondary paper products,Forestry,165913043.47826087,metric_ton,3816000000,Secondary_paper_products_Forestry,23.0
+Services and custom work,Forestry,468000.0,hr,549000000,Services_and_custom_work_Forestry,1173.076923076923
+Extraction,Minerals and mining,28620000000000.0,ton,28620000000,Extraction_Minerals_and_mining,0.001
+Coal,Minerals and mining,64168618.26697892,short_ton,2740000000,Coal_Minerals_and_mining,42.7
+Metallic minerals,Minerals and mining,346100000.0,metric_ton,17305000000,Metallic_minerals_Minerals_and_mining,50.0
+Non-metallic minerals,Minerals and mining,285833333.3333333,metric_ton,8575000000,Non_metallic_minerals_Minerals_and_mining,30.000000000000004
+Services,Minerals and mining,1040000.0,hr,5239000000,Services_Minerals_and_mining,5037.5
+Primary manufacturing,Minerals and mining,110376923076.92308,kWh,14349000000,Primary_manufacturing_Minerals_and_mining,0.13
+Primary metallic minerals products,Minerals and mining,113714285.71428572,metric_ton,7960000000,Primary_metallic_minerals_products_Minerals_and_mining,70.0
+Primary non-metallic minerals products,Minerals and mining,106500000.0,metric_ton,6390000000,Primary_non_metallic_minerals_products_Minerals_and_mining,60.0
+Services and custom work,Minerals and mining,206600.0,hr,2057000000,Services_and_custom_work_Minerals_and_mining,9956.437560503387
+Secondary metal products,Minerals and mining,29877777.777777776,ton,2689000000,Secondary_metal_products_Minerals_and_mining,90.0
+Tertiary metal products,Minerals and mining,286622222.2222222,ton,12898000000,Tertiary_metal_products_Minerals_and_mining,45.0
+Miscellaneous metal products,Minerals and mining,10980000000.0,kg,3294000000,Miscellaneous_metal_products_Minerals_and_mining,0.3
+Extraction,Energy,715514285714.2856,kWh,50086000000,Extraction_Energy,0.07
+Crude oil,Energy,55003797468.35443,L,43453000000,Crude_oil_Energy,0.79
+Natural gas,Energy,829125000000.0,cubic_feet,6633000000,Natural_gas_Energy,0.008
+Services,Energy,1582000.0,hr,26996000000,Services_Energy,17064.475347661188
+Primary manufacturing,Energy,372146153846.1538,kWh,48379000000,Primary_manufacturing_Energy,0.13
+Electricity,Energy,280007692307.6923,kWh,36401000000,Electricity_Energy,0.13
+Bioenergy,Energy,1253846153.8461535,kWh,163000000,Bioenergy_Energy,0.13000000000000003
+Refined petroleum products (fuels and lubricants),Energy,17388000000.0,gallon,8694000000,Refined_petroleum_products_(fuels_and_lubricants)_Energy,0.5
+Biofuels,Energy,2542857142.857143,L,445000000,Biofuels_Energy,0.175
+Petrochemicals,Energy,1828333333.3333333,gallon,2194000000,Petrochemicals_Energy,1.2
+Other refined petroleum and coal products,Energy,1816666666.6666667,gallon,1090000000,Other_refined_petroleum_and_coal_products_Energy,0.6

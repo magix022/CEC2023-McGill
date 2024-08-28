@@ -1,0 +1,34 @@
+<div id="dsdfs" style="overflow:auto; height:500px">
+  <plotly-plot [data]="graph1.data" [layout]="graph1.layout" [config]="graph1.config">
+  </plotly-plot>
+</div>
+<br>
+<br>
+<p>Country: </p>
+<select class='select-option' [(ngModel)]="dropdownSelected"
+     (change)='onOptionsSelected($event)'>
+   <option class='option' *ngFor='let option of dropdownData' 
+   [value]="option.value">{{option.key}}</option>
+</select>
+
+<br>
+
+<div style="height:500px; width:900px;">
+  <plotly-plot [data]="graph2.data" [layout]="graph2.layout" [config]="graph2.config">
+  </plotly-plot>
+</div>
+<br>
+<br>
+<p>Sector: </p>
+<select class='select-option' [(ngModel)]="dropdownSelected2"
+     (change)='onOptionsSelected2($event)'>
+   <option class='option' *ngFor='let option of dropdownData2' 
+   [value]="option.value">{{option.key}}</option>
+</select>
+
+<br>
+
+<div style="height:500px; width:900px;">
+  <plotly-plot [data]="graph3.data" [layout]="graph3.layout" [config]="graph3.config">
+  </plotly-plot>
+</div>
